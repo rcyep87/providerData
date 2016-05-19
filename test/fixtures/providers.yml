@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prov_id: 1
+  name: MyString
+  street_address: MyString
+  city: MyString
+  state: MyString
+  zipcode: MyString
+  hospital_referral_region: MyString
+  total_discharges: 1
+  avg_covered_charges: 1
+  avg_total_payments: 1
+  avg_cms_payments: 1
+
+two:
+  prov_id: 1
+  name: MyString
+  street_address: MyString
+  city: MyString
+  state: MyString
+  zipcode: MyString
+  hospital_referral_region: MyString
+  total_discharges: 1
+  avg_covered_charges: 1
+  avg_total_payments: 1
+  avg_cms_payments: 1
