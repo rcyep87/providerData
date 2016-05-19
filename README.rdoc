@@ -1,0 +1,2 @@
+
+The purpose of this real basic rails application is to seed some public data on medical providers into a postgres database that's in a CSV format.
